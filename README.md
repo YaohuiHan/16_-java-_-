@@ -18,7 +18,8 @@
 ![](./example/query.png "查询航班")  <br>  
 
 ## 使用方法
-`clone`到本地后直接`Import workspace`
+`clone`到本地后直接Import workspace  
+`main`函数运行在`passenger_1.java`文件内。  
 ```
 git clone https://github.com/YaohuiHan/Flight_ticket_reservation
 ```
@@ -33,4 +34,4 @@ mysql -u root -p Project < "Project.sql"
 
 ## 运行环境
 Mysql: `Server version: 5.7.18-log MySQL Community Server (GPL)`  
-Java: `jdk1.8.0_121`
+Java: `jdk1.8.0_121`  
