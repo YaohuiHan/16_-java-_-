@@ -8,12 +8,13 @@
 
 ### 项目成果
 初步学习应用java语言，了解Java基础的GUI工具包`Swing`，接触`mysql`数据库<br>
-*** 运行截图如下 ***
-1. 主要步骤： <br>
+---
+*** 运行截图如下 *** 
+1. 主要步骤： <br><br>
 ![](./example/main.png "主要逻辑展示")
-2. 创建航班GUI界面：<br>
+2. 创建航班GUI界面：<br><br>
 ![](./example/create.png "创建航班")
-3. 查询航班GUI界面：<br>
+3. 查询航班GUI界面：<br><br>
 ![](./example/query.png "查询航班")
 <br>
 
