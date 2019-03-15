@@ -3,18 +3,18 @@
 
 ### 项目需求
 创建一个具有完整售票流程的机票预订系统，具有创建、查询、预订、更新等功能。  
-显示选项信息、获取用户输入等操作，在命令行完成即可。<br>
-**加分项:** GUI，数据库
+显示选项信息、获取用户输入等操作，在命令行完成即可。  
+**加分项:** GUI，数据库  
 
 ### 项目成果
 初步学习应用java语言，了解Java基础的GUI工具包`Swing`，接触`mysql`数据库<br>
 
- ***运行截图如下*** <br>
-<br>1. 主要步骤： <br><br>
-![](./example/main.png "主要逻辑展示")
-<br>2. 创建航班GUI界面：<br><br>
-![](./example/create.png "创建航班")
-<br>3. 查询航班GUI界面：<br><br>
+ ***运行截图如下***   
+1. 主要步骤： <br><br>
+![](./example/main.png "主要逻辑展示")  
+2. 创建航班GUI界面：<br><br>
+![](./example/create.png "创建航班")  
+3. 查询航班GUI界面：<br><br>
 ![](./example/query.png "查询航班")
 <br>
 
@@ -33,5 +33,5 @@ mysql -u root -p Project < "Project.sql"
 ```
 
 ### 运行环境
-Mysql: `Server version: 5.7.18-log MySQL Community Server (GPL)`
+Mysql: `Server version: 5.7.18-log MySQL Community Server (GPL)`  
 Java: `jdk1.8.0_121`
