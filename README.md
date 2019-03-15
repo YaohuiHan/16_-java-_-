@@ -33,5 +33,8 @@ mysql -u root -p Project < "Project.sql"
 ```
 
 ## 运行环境
+Java: `jdk1.8.0_121`    
+JDBC: `mysql-connector-java-5.1.41-bin.jar`    
 Mysql: `Server version: 5.7.18-log MySQL Community Server (GPL)`  
-Java: `jdk1.8.0_121`  
+
+
