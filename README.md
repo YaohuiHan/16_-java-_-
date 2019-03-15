@@ -1,8 +1,9 @@
-# Flight Ticket Reservation
+﻿# Flight Ticket Reservation
 此项目为2016年大一时初次接触Java语言
 
 ### 项目需求
-在命令行创建一个具有完整售票流程的机票预订系统。<br>
+创建一个具有完整售票流程的机票预订系统，具有创建、查询、预订、更新等功能。<br>
+显示选项信息、获取用户输入等操作，在命令行完成即可。<br>
 **加分项:** GUI，数据库
 
 ### 项目成果
@@ -14,11 +15,12 @@
 ```
 git clone https://github.com/YaohuiHan/Flight_ticket_reservation
 ```
-
-
-
-
-初步学习应用java，GUI - Swing，mysql
-
-			Connection conn = DriverManager.getConnection(
-					"jdbc:mysql://127.0.0.1:3306/Project?characterEncoding=utf8&useSSL=false", "root", "");
+**Note:** 需要提前配置数据库，迁移数据等，建表语句如下：
+```
+create database Project; # In your mysql
+```
+以及迁移数据库：  
+% In your cmd :%
+```
+mysql -u root -p Project < "Project.sql"  
+```
