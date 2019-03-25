@@ -11,11 +11,13 @@
 
  ***运行截图如下***   
 1. 主要步骤：   
-![](./example/main.png "主要逻辑展示")  <br>  
+![](./.png/main.png "主要逻辑展示")  <br>  
 2. 创建航班GUI界面：  
-![](./example/create.png "创建航班")  <br>  
+![](./.png/create.png "创建航班")  <br>  
 3. 查询航班GUI界面：  
-![](./example/query.png "查询航班")  <br>  
+![](./.png/query.png "查询航班")  <br>   
+4. doc文档：  
+![](./.png/doc.png "doc文档")  <br>  
 
 ## 使用方法
 `clone`到本地后直接Import workspace  
