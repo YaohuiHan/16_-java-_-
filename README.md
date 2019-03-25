@@ -16,8 +16,7 @@
 ![](./.png/create.png "创建航班")  <br>  
 3. 查询航班GUI界面：  
 ![](./.png/query.png "查询航班")  <br>   
-4. doc文档：  
-![](./.png/doc.png "doc文档")  <br>  
+  
 
 ## 使用方法
 `clone`到本地后直接Import workspace  
